@@ -1,5 +1,7 @@
  The QR Code Generator is a web-based tool built with HTML, CSS, and JavaScript that allows users to easily generate QR codes for various purposes. This user-friendly application leverages an external API to create QR codes dynamically based on user input.
 
+ 
+
 **Features**
 1. Dynamic QR Code Generation
 User Input:
@@ -29,17 +31,27 @@ QR Code API: External API for generating QR codes dynamically.
 
 
 Getting Started
+
+
 **Clone the Repository:**
 
 bash
 Copy code
 git clone https://github.com/Aki12-3/QR-Code-Generator.git
+
+
+
 **Open the HTML File:**
 
 Navigate to the project directory and open the index.html file in a web browser.
+
+
 **Generate QR Codes:**
 
 Enter text or data in the input field and see the QR code generated instantly.
+
+
+
 **Project Structure**
 index.html: Main HTML file containing the structure of the QR code generator.
 styles.css: CSS file with styles for the application's appearance.
